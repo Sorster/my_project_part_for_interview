@@ -8,7 +8,7 @@ using Microsoft.Owin.Security.Cookies;
 using Microsoft.Owin.Security.Google;
 using Models.Entities;
 using Owin;
-
+using WebApp.App_Start.IdentityConfig;
 
 namespace WebApp
 {

@@ -34,3 +34,12 @@ C:\GitHub\Repositories\Work\soc_net\XCommunicate.PL\ViewModels\obj\Debug\ViewMod
 C:\GitHub\Repositories\Work\soc_net\XCommunicate.PL\ViewModels\obj\Debug\ViewModels.csproj.CopyComplete
 C:\GitHub\Repositories\Work\soc_net\XCommunicate.PL\ViewModels\obj\Debug\ViewModels.dll
 C:\GitHub\Repositories\Work\soc_net\XCommunicate.PL\ViewModels\obj\Debug\ViewModels.pdb
+C:\GitHub\social_network\XCommunicate.PL\ViewModels\bin\Debug\ViewModels.dll
+C:\GitHub\social_network\XCommunicate.PL\ViewModels\bin\Debug\ViewModels.pdb
+C:\GitHub\social_network\XCommunicate.PL\ViewModels\bin\Debug\Services.dll
+C:\GitHub\social_network\XCommunicate.PL\ViewModels\bin\Debug\Services.pdb
+C:\GitHub\social_network\XCommunicate.PL\ViewModels\obj\Debug\ViewModels.csproj.AssemblyReference.cache
+C:\GitHub\social_network\XCommunicate.PL\ViewModels\obj\Debug\ViewModels.csproj.CoreCompileInputs.cache
+C:\GitHub\social_network\XCommunicate.PL\ViewModels\obj\Debug\ViewModels.csproj.CopyComplete
+C:\GitHub\social_network\XCommunicate.PL\ViewModels\obj\Debug\ViewModels.dll
+C:\GitHub\social_network\XCommunicate.PL\ViewModels\obj\Debug\ViewModels.pdb

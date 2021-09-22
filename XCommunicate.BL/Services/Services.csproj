@@ -42,17 +42,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Interfaces\IEntityService.cs" />
-    <Compile Include="Interfaces\IGroupService.cs" />
-    <Compile Include="Interfaces\IGroupUserService.cs" />
-    <Compile Include="Interfaces\IMessageService.cs" />
-    <Compile Include="Interfaces\IUserService.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="Services\EntityService.cs" />
-    <Compile Include="Services\GroupService.cs" />
-    <Compile Include="Services\GroupUserService.cs" />
-    <Compile Include="Services\MessageService.cs" />
-    <Compile Include="Services\UserService.cs" />
     <Compile Include="Validators\BirthDateValidator.cs" />
     <Compile Include="Validators\GenderValidator.cs" />
     <Compile Include="Validators\ObsceneWordsValidator.cs" />

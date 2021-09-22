@@ -78,19 +78,8 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Entities\ConfirmationCode.cs" />
-    <Compile Include="Entities\Entity.cs" />
-    <Compile Include="Entities\EntityType.cs" />
-    <Compile Include="Entities\Colleague.cs" />
-    <Compile Include="Entities\Group.cs" />
-    <Compile Include="Entities\GroupRole.cs" />
-    <Compile Include="Entities\GroupUser.cs" />
-    <Compile Include="Entities\Like.cs" />
-    <Compile Include="Entities\Message.cs" />
     <Compile Include="Entities\User.cs" />
     <Compile Include="Entities\UserProfile.cs" />
-    <Compile Include="Entities\UserState.cs" />
-    <Compile Include="Entities\UserStateHistory.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>

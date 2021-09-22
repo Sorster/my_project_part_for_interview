@@ -9,6 +9,7 @@ using Microsoft.Owin.Security;
 using Models.Entities;
 using Repositories.Repositories;
 using ViewModels;
+using WebApp.App_Start.IdentityConfig;
 
 namespace WebApp.Controllers
 {

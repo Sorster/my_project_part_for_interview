@@ -1,5 +1,4 @@
-﻿using System;
-using System.ComponentModel.DataAnnotations;
+﻿using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
 
 namespace Models.Entities
@@ -41,17 +40,6 @@ namespace Models.Entities
             Gender = gender;
             Country = country;
             Town = town;
-        }
-        public UserProfile(string id, string firstName, string lastName, string birthDate, string gender, string country, string town, User user)
-        {
-            UserId = id;
-            FirstName = firstName;
-            LastName = lastName;
-            BirthDate = birthDate;
-            Gender = gender;
-            Country = country;
-            Town = town;
-            User = user;
         }
     }
 }
