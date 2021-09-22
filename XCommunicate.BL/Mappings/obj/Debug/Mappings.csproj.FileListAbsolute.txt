@@ -1,0 +1,17 @@
+C:\GitHub\Repositories\Work\TMS\XCommunicate.BL\Mappings\bin\Debug\Mappings.dll
+C:\GitHub\Repositories\Work\TMS\XCommunicate.BL\Mappings\bin\Debug\Mappings.pdb
+C:\GitHub\Repositories\Work\TMS\XCommunicate.BL\Mappings\bin\Debug\AutoMapper.dll
+C:\GitHub\Repositories\Work\TMS\XCommunicate.BL\Mappings\bin\Debug\AutoMapper.xml
+C:\GitHub\Repositories\Work\TMS\XCommunicate.BL\Mappings\obj\Debug\Mappings.csproj.AssemblyReference.cache
+C:\GitHub\Repositories\Work\TMS\XCommunicate.BL\Mappings\obj\Debug\Mappings.csproj.CoreCompileInputs.cache
+C:\GitHub\Repositories\Work\TMS\XCommunicate.BL\Mappings\obj\Debug\Mappings.csproj.CopyComplete
+C:\GitHub\Repositories\Work\TMS\XCommunicate.BL\Mappings\obj\Debug\Mappings.dll
+C:\GitHub\Repositories\Work\TMS\XCommunicate.BL\Mappings\obj\Debug\Mappings.pdb
+C:\GitHub\Repositories\Work\soc_net\XCommunicate.BL\Mappings\bin\Debug\Mappings.dll
+C:\GitHub\Repositories\Work\soc_net\XCommunicate.BL\Mappings\bin\Debug\Mappings.pdb
+C:\GitHub\Repositories\Work\soc_net\XCommunicate.BL\Mappings\bin\Debug\AutoMapper.dll
+C:\GitHub\Repositories\Work\soc_net\XCommunicate.BL\Mappings\bin\Debug\AutoMapper.xml
+C:\GitHub\Repositories\Work\soc_net\XCommunicate.BL\Mappings\obj\Debug\Mappings.csproj.CoreCompileInputs.cache
+C:\GitHub\Repositories\Work\soc_net\XCommunicate.BL\Mappings\obj\Debug\Mappings.csproj.CopyComplete
+C:\GitHub\Repositories\Work\soc_net\XCommunicate.BL\Mappings\obj\Debug\Mappings.dll
+C:\GitHub\Repositories\Work\soc_net\XCommunicate.BL\Mappings\obj\Debug\Mappings.pdb
